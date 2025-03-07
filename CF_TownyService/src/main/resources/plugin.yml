@@ -1,0 +1,4 @@
+name: CF_TownyService
+version: '1.0'
+main: PolitGame.CaptainFanky.CF_TownyService
+api-version: '1.21'
